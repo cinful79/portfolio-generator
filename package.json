@@ -4,13 +4,16 @@
   "description": "Portfolio Generator",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cinful79/portfolio-generator.git"
   },
-  "author": "",
+  "keywords": [
+    "Portfolio"
+  ],
+  "author": "Cindy Bonilla",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cinful79/portfolio-generator/issues"
